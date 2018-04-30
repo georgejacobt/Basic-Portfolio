@@ -156,7 +156,11 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     opacity: 0.8;
 }
 
-aboutlink
+a
 {
-    
+ 
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-decoration: none;
+    color: teal;
+
 }
