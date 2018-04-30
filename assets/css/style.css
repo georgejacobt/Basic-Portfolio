@@ -56,12 +56,24 @@
   
 }
 
-.imgHolder {
+
+.container {
     position: relative;
+    font-family: Arial;
 }
-.imgHolder span {
+
+.text-block {
     position: absolute;
-    right: 10px;
-    top: 10px;
+    bottom: 20px;
+    right: 925px;
+    left: 35px;
+    background-color: teal;
+    color: white;
+    padding-left: 20px;
+    padding-right: 20px;
+    opacity: 0.8;
+    text-align: center
 }
+
+
 
