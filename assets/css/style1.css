@@ -157,6 +157,20 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     opacity: 0.8;
 }
 
+
+#lable2
+{
+    position: fixed;
+    left: 22.7%;
+    top: 65%;
+    color: white;
+    background-color: teal;
+    padding: 10px;
+    width: 182px;
+    opacity: 0.8;
+    
+}
+
 a
 {
  
@@ -169,5 +183,12 @@ a
 #linkbox{
 
     color: white;
+}
+
+#newrow{
+
+position: absolute;
+bottom: 250px;
+
 }
 
