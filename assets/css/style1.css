@@ -85,6 +85,7 @@ img {
      float: left;
      margin: 35px 20px 20px 0px;
      border: solid;
+    
 }
 
 p
@@ -136,7 +137,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 {
     position: fixed;
     left: 22.75%;
-    top: 39.5%;
+    top: 38%;
     color: white;
     background-color: teal;
     padding: 10px;
@@ -149,7 +150,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 {
     position: fixed;
     left: 34.5%;
-    top: 39.5%;
+    top: 38%;
     color: white;
     background-color: teal;
     padding: 10px;
@@ -164,7 +165,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
 {
     position: fixed;
     left: 22.7%;
-    top: 65%;
+    top: 63%;
     color: white;
     background-color: teal;
     padding: 10px;
@@ -190,7 +191,7 @@ a
 #newrow{
 
 position: absolute;
-bottom: 250px;
+bottom: 300px;
 
 }
 
@@ -199,4 +200,6 @@ bottom: 250px;
     text-align: center;
 
 }
+
+
 
