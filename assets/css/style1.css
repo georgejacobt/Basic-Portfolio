@@ -129,7 +129,7 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     background-color: teal;
     color: white;
     font-family: Georgia, 'Times New Roman', Times, serif;
-    padding: 10px;
+    
 }
 
 #lable
@@ -155,6 +155,8 @@ font-family: Georgia, 'Times New Roman', Times, serif;
     padding: 10px;
     width: 182px;
     opacity: 0.8;
+   
+    
 }
 
 
@@ -189,6 +191,12 @@ a
 
 position: absolute;
 bottom: 250px;
+
+}
+
+.centerme {
+
+    text-align: center;
 
 }
 
